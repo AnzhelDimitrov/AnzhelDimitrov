@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnzhelDimitrov
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning React/Redux
+- 👀 Interested in Web Development 
+- 🌱 Currently learning React/Redux
 
 
 <!---
