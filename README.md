@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @AnzhelDimitrov
 - 👀 Interested in Web Development 
-- 🌱 Currently learning React/Redux
+- 🌱 The technologies I use are:
+- javascript/React
+- html/css
+- bootstrap5/tailwindcss/MUI
+
+Currently learning Python 🐍
 
 
 <!---
