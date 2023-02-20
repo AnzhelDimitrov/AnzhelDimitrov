@@ -5,7 +5,7 @@
 - html/css
 - bootstrap5/tailwindcss/MUI
 
-Currently learning Python 🐍
+Currently learning Java
 
 
 <!---
