@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @AnzhelDimitrov
 - 👀 Interested in Web Development 
 - 🌱 The technologies I use are:
-- javascript/React
-- html/css
-- bootstrap5/tailwindcss/MUI
-
-Currently learning Java
+- JavaScript, React
+- Python, MySQL, MongoDB, Java 
+- FireBase, HTML/CSS, Bootstrap5, Tailwind CSS, MUI
 
 
 <!---
